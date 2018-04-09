@@ -1,0 +1,6 @@
+com/iqmsoft/weight/WeightDataImporter.class
+com/iqmsoft/weight/data/WeightData.class
+com/iqmsoft/weight/WeightManagerApplication.class
+com/iqmsoft/weight/service/WeightService.class
+com/iqmsoft/weight/data/WeightDataRepository.class
+com/iqmsoft/weight/WeightReader.class
